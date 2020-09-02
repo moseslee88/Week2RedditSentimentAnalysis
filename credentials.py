@@ -1,5 +1,5 @@
 # note: these credentials are not valid, replace with your own
-client_id = 'rVJaXQWSgABtQQ'
-client_secret = 'ZUz0stEq1hJy1jZNeBWBkkB1dEg'
-user_agent = 'solution_test'
+client_id = '5IhZscpEj4ULow'
+client_secret = 'hauiAFMbEQgoAQA0N8IioYNB8ZU'
+user_agent = 'MSDS600 Scrape'
 
